@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phumpherys64
-- 👀 I’m interested in space and black holes and chess and goot things!
+- 👀 I’m interested in space and black holes and chess and com-pew-terz!
 - 🌱 I’m currently learning GitHub
 - 📫 How to reach me http://linkedin.com/in/philhumpherys
 - ⚡ Fun fact: 2016 Utah State Chess ♟️ Champion
