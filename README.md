@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phumpherys64
-- 📫 http://linkedin.com/in/philhumpherys
 - 📧 phumpherys@gmail.com
-- 👀 I’m interested in space and black holes and chess and com-pew-terz!
-- ⚡ Fun fact: 2016 Utah State Chess ♟️ Champion
+- 📫 http://linkedin.com/in/philhumpherys
+- 👀 I’m interested in space 🪐 and black holes 🕳️ and com-pew-terz!
+- ⚡ 2016 Utah State Chess ♟️ Champion
 - ♟️ https://www.uschess.org/msa/XtblMain.php?201612182802-12469734
 - 🇹🇭 ฝรั่งที่พูดไทยเป็น
