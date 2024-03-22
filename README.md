@@ -19,7 +19,7 @@
 ## Animal Crossing
 ### Tom Nook and Isabelle, Mar 21, 2024, Tokyo, Japan 
 ![](IMG_1960.jpeg)
-
+- - -
 ![](IMG_1964.jpeg)
 
 #animalcrossing
@@ -29,4 +29,10 @@
 ![](IMG_1982.jpeg)
 #Tokyo 
 *Mar 22, 2024 at 2:59 PM*
+- - -
+
+![](IMG_1961.jpeg)
+**Also Mario**
+#mario
+*Mar 22, 2024 at 3:17 PM*
 - - -
