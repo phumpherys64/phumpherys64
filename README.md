@@ -9,7 +9,6 @@
 - ♟️ https://www.uschess.org/msa/XtblMain.php?201612182802-12469734
 - 🇹🇭 ฝรั่งที่พูดไทยเป็น
 
-
 #python
 #devops
 #Thai
@@ -20,8 +19,13 @@
 ## Animal Crossing
 ### Tom Nook and Isabelle, Mar 21, 2024, Tokyo, Japan 
 ![](IMG_1960.jpeg)
+
+![](IMG_1964.jpeg)
+
 #animalcrossing
 *Mar 22, 2024 at 2:38 PM*
 - - -
-=======
 
+![](IMG_1982.jpeg)
+#Tokyo 
+- - -
