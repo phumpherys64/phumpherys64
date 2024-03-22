@@ -9,6 +9,7 @@
 - ♟️ https://www.uschess.org/msa/XtblMain.php?201612182802-12469734
 - 🇹🇭 ฝรั่งที่พูดไทยเป็น
 
+
 #python
 #devops
 #Thai
@@ -22,3 +23,5 @@
 #animalcrossing
 *Mar 22, 2024 at 2:38 PM*
 - - -
+=======
+
