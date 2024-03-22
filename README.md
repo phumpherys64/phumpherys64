@@ -28,5 +28,5 @@
 ### Tokyo, Japan  Mar 21, 2024
 ![](IMG_1982.jpeg)
 #Tokyo 
-Mar 22, 2024 at 2:59 PM
+*Mar 22, 2024 at 2:59 PM*
 - - -
