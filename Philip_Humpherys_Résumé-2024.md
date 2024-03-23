@@ -52,18 +52,18 @@ Accomplished Senior Systems Engineer & Administrator, Solutions Architect, Devel
 * Advised with other department heads to coordinate successful project completion
 - - -
 ## EDUCATION
-### Master of Business Administration (MBA)
-### University of Utah, David Eccles School of Business
-##### Salt Lake City, Utah
+**Master of Business Administration (MBA)**
+**University of Utah, David Eccles School of Business**
+*Salt Lake City, Utah*
 
-### Bachelor of Science (BS): Computer Science
-### Brigham Young University
-##### Provo, Utah
+**Bachelor of Science (BS): Computer Science**
+**Brigham Young University**
+*Provo, Utah*
 - - -
 ## CERTIFICATIONS
-* AWS Certified Practitioner
-* VMWare Certified Professional (VCP)
+* **AWS Certified Practitioner**
+* **VMWare Certified Professional (VCP)**
 - - -
 ## AWARDS
-Utah State Chess Champion, 2016 ♟️
+*Utah State Chess Champion, 2016* ♟️
 - - -
