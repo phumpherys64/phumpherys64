@@ -2,6 +2,10 @@
 # $ python3 robot.py input.txt
 # or
 # cat input.txt | python3 robot.py
+# TODO use format string
+# TODO use def
+# BUG no bugs
+# FIXME issue goes here
 
 import fileinput
 
