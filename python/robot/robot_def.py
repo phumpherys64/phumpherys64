@@ -17,12 +17,15 @@ LEFT 2
 % ./robot.py input.txt 
 (8,-4)
     
+docstring
+print(robot_def.__doc__)
+    
 """
 
 import fileinput
 
 def robot():
-    """returns (x,y) from input (stdin or filename as arguement) of <INSTRUCTIONS>
+    """returns "(x,y)" str from input (stdin or filename as arguement) of <INSTRUCTIONS>
     
     Example <INSTRUCTIONS>:
     ----------------------
