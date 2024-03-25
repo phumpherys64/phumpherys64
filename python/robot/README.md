@@ -1,10 +1,10 @@
 # robot.py
 
-robot.py is given INSTRUCTIONS as <STDIN> or as a file argument .
+robot.py is given **INSTRUCTIONS** as ***STDIN*** or as a file argument .
 
 ### Example INSTRUCTIONS:
 
-`$ cat INSTRUCTIONS`
+`cat INSTRUCTIONS`
 ```txt
 UP 1
 RIGHT 10
