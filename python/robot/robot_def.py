@@ -1,44 +1,23 @@
-"""
-robot.py
-    
-A file argument can be used i.e.:  robot.py inputfile.txt
-Or pipe stdin:  cat input.txt | robot.py
-    
-Example INSTRUCTIONS:
-UP 1
-RIGHT 10
-DOWN 5
-LEFT 2
-
-% cat input.txt | python3 robot.py
-(8,-4)    
-
-% chmod +x ./robot.py    
-% ./robot.py input.txt 
-(8,-4)
-    
-docstring
-print(robot_def.__doc__)
-    
-"""
-
 import fileinput
 
 def robot():
-    """returns "(x,y)" str from input (stdin or filename as arguement) of <INSTRUCTIONS>
-    
-    Example <INSTRUCTIONS>:
-    ----------------------
-    
-    UP 1
+    """
+
+    robot() takes input (STDIN or inputfile) of INSTRUCTIONS and returns coordinates (x,y)
+
+    Example INSTRUCTIONS:
+
+    "UP 1
     RIGHT 10
     DOWN 5
     LEFT 2
-    
-    Returns
-    -------
-    "(x,y)" str  Coordinates of robot after executing <INSTRUCTIONS>
-    
+    “
+
+    Returns:
+
+    (8,-4)
+
+
     """
     
     x = 0
