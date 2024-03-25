@@ -4,7 +4,7 @@ robot.py is given INSTRUCTIONS as <STDIN> or as a file argument .
 
 ### Example INSTRUCTIONS:
 
-`$ cat input`
+`$ cat INSTRUCTIONS`
 ```txt
 UP 1
 RIGHT 10
@@ -14,13 +14,15 @@ LEFT 2
 
 ### command line example:
 
-`% ./robot.py input `
+```bash
+./robot.py INSTRUCTIONS
+```
 `(8,-4)`
 
+```bash
+cat INSTRUCTIONS| ./robot.py
 ```
-% cat input| ./robot.py 
-(8,-4)
-```
+`(8,-4)`
 
 ### docstring
 
