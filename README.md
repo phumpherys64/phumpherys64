@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Philip Humpherys  
 
+<p align="center">
+  <img src="assets/profile.jpg" alt="Profile photo with blue sunglasses" width="320">
+</p>
+
 **MBA | Site Reliability Engineer | DevOps | Cloud Architect**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Phil_Humpherys-blue?logo=linkedin)](https://www.linkedin.com/in/philhumpherys/)  
